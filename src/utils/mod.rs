@@ -1,1 +1,3 @@
-pub mod utils;
+pub fn print_config() {
+    println!("config success");
+}
